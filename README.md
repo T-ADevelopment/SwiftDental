@@ -24,11 +24,21 @@
 
 <h2>How to use </h2>
 
-Please Note: If you wish to enter an overline roman numeral
+Enter either roman numerals or numbers into the imput field 
+
+Click submit 
+
+See the response
+
+If you wish to use it again click the restart button.
+
+
+
+<i>Please Note: If you wish to enter an overline roman numeral
 
 Please use _ then the corasponding letter
 
-Examples of the overline roman numerals are below
+Examples of the overline roman numerals are below</i>
 
 
 
@@ -36,9 +46,6 @@ Examples of the overline roman numerals are below
 ![Screenshot 2022-11-30 at 21 03 30](https://user-images.githubusercontent.com/44707086/204907533-48b50021-3fba-4ff2-8b55-1a1cad5d92fa.jpg)
 
 
-Enter either roman numerals or numbers into the imput field 
-Click submit 
-See the response 
-If you wish to use it again click the restart button.
+
 
 
