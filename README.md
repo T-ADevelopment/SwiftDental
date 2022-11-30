@@ -24,7 +24,7 @@
 
 <h2>How to use </h2>
 
-Enter either roman numerals or numbers into the imput field 
+Enter either roman numerals or numbers into the input field 
 
 Click submit 
 
