@@ -1,6 +1,6 @@
 # SwiftDental
 
-#How to install 
+<h2>How to install </h2>
 
 1. Download and exract the SwiftDental.zip
 
@@ -22,7 +22,7 @@
 
 
 
-#How to use 
+<h2>How to use </h2>
 
 Please Note: If you wish to enter an overline roman numeral
 
