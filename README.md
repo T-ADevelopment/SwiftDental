@@ -36,7 +36,7 @@ If you wish to use it again click the restart button.
 
 <i>Please Note: If you wish to enter an overline roman numeral
 
-Please use _ then the corasponding letter E.G for the first overline character on the image you would use _I
+Please use _ then the corasponding letter E.G for the second overline character on the image you would use _V
 
 Examples of the overline roman numerals are below</i>
 
