@@ -25,7 +25,9 @@ How to install
 How to use 
 
 Please Note: If you wish to enter an overline roman numeral
+
 Please use _ then the corasponding letter
+
 Examples of the overline roman numerals are below
 
 
