@@ -8,17 +8,17 @@
 
 3. Open Docker Desktop 
 
-4. Open Terminal
+4. Open your OS Terminal
 
-5. In the terminal cd to the SwiftDental folder (E.G cd /Users/user/SwiftDental)
+5. In the terminal CD to the SwiftDental folder (E.G cd /Users/user/SwiftDental)
 
-6. In the terminal type ./vendor/bin/sail up 
+6. When in the folder in the terminal type ./vendor/bin/sail up 
 
 7. Press Enter.
 
 8. When Docker states that the container is running open your prefered browser
 
-9. In the browser head to http://localhost
+9. In the browser head to http://localhost:80 OR http://{Your Local IP Address}:80
 
 
 
