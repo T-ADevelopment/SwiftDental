@@ -10,15 +10,17 @@
 
 4. Open your OS Terminal
 
-5. In the terminal CD to the SwiftDental folder (E.G cd /Users/user/SwiftDental)
+5. Extract the zip file
 
-6. When in the folder in the terminal type ./vendor/bin/sail up 
+6. In the terminal CD to the SwiftDental folder (E.G cd /Users/user/SwiftDental)
 
-7. Press Enter.
+7. When in the folder in the terminal type ./vendor/bin/sail up 
 
-8. When Docker states that the container is running open your prefered browser
+8. Press Enter.
 
-9. In the browser head to http://localhost:80 OR http://{Your Local IP Address}:80
+9. When Docker states that the container is running open your prefered browser
+
+10. In the browser head to http://localhost:80 OR http://{Your Local IP Address}:80
 
 
 
